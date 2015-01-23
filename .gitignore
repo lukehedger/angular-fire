@@ -10,7 +10,12 @@ Thumbs.db
 
 # Dependencies #
 ######################
+bower_components/
 node_modules/
+
+# Compiled CSS #
+######################
+css/main.css
 
 # Bundled JS #
 ######################
